@@ -1,1 +1,5 @@
-# site 2: Mise a jour du site site1. (videojs et carte du ciel)
+# site 2: Mise a jour du  site1:
+-videojs
+-carte du ciel
+-iframe
+-controle javascript sur les formulaires
